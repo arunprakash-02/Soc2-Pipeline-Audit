@@ -1,0 +1,47 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Secrets and local config ---
+.env
+.streamlit/secrets.toml
+
+# --- Editors and OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs and scratch ---
+*.log
+*.tmp
+
+# --- Local databases (analyst review state is per machine) ---
+*.db
+*.sqlite3
+
+# --- Equinix SOC 2 report and everything derived from its text ---
+# The report's own notice prohibits reproduction or distribution in whole or in part.
+# Fetch it with scripts/fetch_documents.py (source and hash are in data/raw/SOURCES.yaml).
+# Synthetic demo data belongs in data/demo/ (not ignored).
+data/raw/*.pdf
+data/extracted_claims.json
+data/mapped_claims*.json
+data/rag_corpus*.json
+data/rag_index*/
+data/rag_evaluation_results*.json
+data/generated_answers.json
+data/risk_assessment*.json
+data/production_*_output.txt
+tests/smoke_*
