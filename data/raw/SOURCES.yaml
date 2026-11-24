@@ -1,0 +1,19 @@
+documents:
+  - id: equinix_soc2
+    filename: equinix_soc2.pdf
+    vendor: Equinix, Inc.
+    report_type: SOC 2 Type II
+    auditor: Schellman & Company, LLC
+    audit_period: "2022-11-01 to 2023-10-31"
+    trust_criteria: [security, availability]
+    pages: 86
+    url: "user-provided"
+    retrieval_date: "2026-11-13"
+    sha256: "4CE1F7F2DB383896D1B1C15D846B9D3A326F4A67D8EA3D516B23D1AE2F5D6E53"
+    license_note: "Proprietary & Confidential - for portfolio demonstration only"
+
+substitutions:
+  - original_target: "Equinix SOC 2 Type II 2022"
+    actual_vendor: "Equinix, Inc."
+    substituted: false
+    note: "Direct Equinix report"

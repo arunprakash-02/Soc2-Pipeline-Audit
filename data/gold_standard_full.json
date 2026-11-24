@@ -1,0 +1,877 @@
+[
+  {
+    "control_id": "CC1.1.1",
+    "correct_requirement": "GOV-01",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.1.2",
+    "correct_requirement": "SEC-10",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.1.3",
+    "correct_requirement": "SEC-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.1.4",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.2.1",
+    "correct_requirement": "GOV-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.2.2",
+    "correct_requirement": "GOV-01",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.3.1",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.3.2",
+    "correct_requirement": "SEC-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.3.3",
+    "correct_requirement": "GOV-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.3.4",
+    "correct_requirement": "GOV-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.4.1",
+    "correct_requirement": "SEC-02",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.4.2",
+    "correct_requirement": "SEC-10",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.4.3",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.4.4",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.4.5",
+    "correct_requirement": "SEC-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.5.1",
+    "correct_requirement": "SEC-10",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.5.2",
+    "correct_requirement": "SEC-10",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.5.3",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.5.4",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.5.5",
+    "correct_requirement": "SEC-10",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.5.6",
+    "correct_requirement": "SEC-03",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC1.5.7",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.1.1",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.1.2",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.1.3",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.1.4",
+    "correct_requirement": "SEC-06",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.2.1",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.2.2",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.2.3",
+    "correct_requirement": "SEC-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.2.4",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.2.5",
+    "correct_requirement": "CHG-01",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.3.1",
+    "correct_requirement": "SEC-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.3.2",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.3.3",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC2.3.4",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.1.1",
+    "correct_requirement": "GOV-02",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.1.2",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.2.1",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.2.2",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.2.3",
+    "correct_requirement": "SEC-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.3.1",
+    "correct_requirement": "GOV-02",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.3.2",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.4.1",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.4.2",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC3.4.3",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC4.1.1",
+    "correct_requirement": "SEC-06",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC4.1.2",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC4.2.1",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC4.2.2",
+    "correct_requirement": "GOV-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC4.2.3",
+    "correct_requirement": "GOV-04",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.1.1",
+    "correct_requirement": "GOV-02",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.1.2",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.1.3",
+    "correct_requirement": "SEC-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.2.1",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.2.2",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.2.3",
+    "correct_requirement": "GOV-03",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.3.1",
+    "correct_requirement": "GOV-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.3.2",
+    "correct_requirement": "SEC-10",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC5.3.3",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.1.1",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.1.2",
+    "correct_requirement": "SEC-02",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.1.3",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.1.4",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.1.5",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.2.1",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.2.2",
+    "correct_requirement": "SEC-02",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.3.1",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.3.2",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.3.3",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.3.4",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.1",
+    "correct_requirement": "PHY-01",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.2",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.3",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.4",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.5",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.6",
+    "correct_requirement": "PHY-01",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.7",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.8",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.9",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.10",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.11",
+    "correct_requirement": "PHY-01",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.4.12",
+    "correct_requirement": "PHY-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.5.1",
+    "correct_requirement": "SEC-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.5.2",
+    "correct_requirement": "SEC-03",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.6.1",
+    "correct_requirement": "SEC-07",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.6.2",
+    "correct_requirement": "SEC-06",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.6.3",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.6.4",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.6.5",
+    "correct_requirement": "SEC-04",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.7.1",
+    "correct_requirement": "SEC-04",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.7.2",
+    "correct_requirement": "SEC-04",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.7.3",
+    "correct_requirement": "SEC-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.8.1",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.8.2",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC6.8.3",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.1.1",
+    "correct_requirement": "SEC-06",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.1.2",
+    "correct_requirement": "SEC-05",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.2.1",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.2.2",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.2.3",
+    "correct_requirement": "SEC-05",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.2.4",
+    "correct_requirement": "SEC-06",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.2.5",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.3.1",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.3.2",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.3.3",
+    "correct_requirement": "SEC-08",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.4.1",
+    "correct_requirement": "SEC-06",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.4.2",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.4.3",
+    "correct_requirement": "SEC-08",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.4.4",
+    "correct_requirement": "SEC-08",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.5.1",
+    "correct_requirement": "SEC-06",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.5.2",
+    "correct_requirement": "SEC-08",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.5.3",
+    "correct_requirement": "SEC-08",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC7.5.4",
+    "correct_requirement": "SEC-08",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC8.1.1",
+    "correct_requirement": "CHG-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC8.1.2",
+    "correct_requirement": "CHG-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC8.1.3",
+    "correct_requirement": "CHG-01",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC8.1.4",
+    "correct_requirement": "SEC-07",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC8.1.5",
+    "correct_requirement": "CHG-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC8.1.6",
+    "correct_requirement": "SEC-07",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC9.1.1",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC9.1.2",
+    "correct_requirement": "GOV-02",
+    "split": "dev",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC9.1.3",
+    "correct_requirement": "VEN-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC9.2.1",
+    "correct_requirement": "GOV-02",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC9.2.2",
+    "correct_requirement": "VEN-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  },
+  {
+    "control_id": "CC9.2.3",
+    "correct_requirement": "VEN-01",
+    "split": "test",
+    "ambiguous": false,
+    "out_of_scope_current_taxonomy": true
+  }
+]

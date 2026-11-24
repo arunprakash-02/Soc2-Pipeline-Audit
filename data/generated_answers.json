@@ -1,0 +1,58 @@
+[
+  {
+    "control_id": "CC7.4.4",
+    "generation_model": "granite4:3b",
+    "embedding_model": "mxbai-embed-large:latest",
+    "retrieval_mode": "hybrid_exact_control_id",
+    "generated_at": "2026-11-17T06:40:57.468055+00:00",
+    "evidence_pages": [
+      75,
+      85
+    ],
+    "evidence": [
+      {
+        "page": 75,
+        "text": "CC7.4.4 Data center facility incidents and corrective measures are reported monthly for management review.\nInspected the data center facility incident reports for a sample of IBX data centers and months during the period to determine that  reports addressing data center facility incidents and corrective measures were reported for management review for each IBX data center and month sampled.\nThe test of the control activity disclosed that reports addressing data center facility incidents and corrective measures were not reported at three of 62 IBX data centers sampled for three of three months sampled."
+      },
+      {
+        "page": 85,
+        "text": "CC7.4.4 Data center facility incidents and corrective measures are reported monthly for management review.\nInspected the data center facility incident reports for a sample of IBX data centers and months during the period to determine that  reports addressing data center facility incidents and corrective measures were reported for management review for each IBX data center and month sampled.\nThe test of the control activity disclosed that reports addressing data center facility incidents and corrective measures were not reported at three of 62 IBX data centers sampled for three of three months sampled.\nManagement’s Response:\nThe exception raised is applicable to the AMER LM1, ST1, and ST3 IBX data centers.  The LM1, ST1, and ST3 IBXs were acquired by Equinix in 2022 and all processes at these data centers had not fully integrated into Equinix at time of audit testing.  The IBXs have since been integrated to Equinix and data center incident reporting has been implemented in line with Equinix process.  There were no impacts to IBX operations identified by management due to the exception."
+      }
+    ],
+    "answer": "CONTROL ID: CC7.4.4\n\nASSESSMENT:\nThe evidence shows that reports addressing data center facility incidents and corrective measures were not reported at three of 62 IBX data centers sampled for three of three months sampled.\n\nEXCEPTIONS:\nThere were reports not submitted for data center facility incidents and corrective measures at three of 62 IBX data centers sampled for three of three months sampled.\n\nPAGE CITATIONS:\n[Page 75]\n[Page 85]"
+  },
+  {
+    "control_id": "CC1.1.1",
+    "generation_model": "granite4:3b",
+    "embedding_model": "mxbai-embed-large:latest",
+    "retrieval_mode": "hybrid_exact_control_id",
+    "generated_at": "2026-11-17T06:42:33.501902+00:00",
+    "evidence_pages": [
+      43
+    ],
+    "evidence": [
+      {
+        "page": 43,
+        "text": "CC1.1.1 Equinix’s code of conduct is included within the employee manual to communicate company values and behavioral standards to personnel.\nInspected the employee handbook to determine that Equinix’s code of conduct was included within the employee manual to communicate the company’s values and behavioral standards to personnel.\nNo exceptions noted."
+      }
+    ],
+    "answer": "CONTROL ID: CC1.1.1\n\nASSESSMENT:\nThe evidence shows that Equinix's code of conduct is included within the employee manual, which communicates the company's values and behavioral standards to personnel. No exceptions were noted in the employee handbook regarding this control.\n\nEXCEPTIONS: None identified in retrieved evidence\n\nPAGE CITATIONS: 43"
+  },
+  {
+    "control_id": "CC6.4.6",
+    "generation_model": "granite4:3b",
+    "embedding_model": "mxbai-embed-large:latest",
+    "retrieval_mode": "hybrid_exact_control_id",
+    "generated_at": "2026-11-17T06:43:06.853497+00:00",
+    "evidence_pages": [
+      66
+    ],
+    "evidence": [
+      {
+        "page": 66,
+        "text": "CC6.4.6 Biometric hand scan and / or proxy card access to the IBX data centers is electronically logged and maintained as per data privacy laws.  Exceptions or attempts of unauthorized access are tracked and escalated.\nInquired of the data center site managers and security personnel regarding the physical access logging and exception escalation procedures to determine that biometric hand scan and / or proxy card access to the IBX data centers was electronically logged and maintained, as per data privacy laws, and that exceptions or attempts of unauthorized access were tracked and escalated.\nNo exceptions noted.\n64\nControl # Control Activity Specified by the Service Organization\nTest Applied by the Service Auditor Test Results\nObserved the physical access system logs maintained for the IBX data centers with the assistance of the data center site managers and security personnel to determine that biometric hand scan and / or proxy card access was electronically logged and maintained as per data privacy laws for each IBX data center.\nNo exceptions noted.\nInspected historical access control system logs for a sample of IBX data centers and months during the period to determine that biometric hand scan and / or proxy card access was electronically logged and maintained for each IBX data center and month sampled.\nNo exceptions noted."
+      }
+    ],
+    "answer": "CONTROL ID: CC6.4.6\n\nASSESSMENT:\nThe evidence shows that biometric hand scan and/or proxy card access to the IBX data centers is electronically logged and maintained in accordance with data privacy laws. No exceptions were noted in the physical access system logs or historical access control system logs.\n\nEXCEPTIONS:\nNone identified in retrieved evidence\n\nPAGE CITATIONS:\n66"
+  }
+]

@@ -1,0 +1,1178 @@
+[
+  {
+    "control_id": "CC1.1",
+    "subject": "The entity",
+    "predicate": "demonstrates a commitment to integrity and ethical values",
+    "page": 1,
+    "excerpt": "CC1.1 COSO Principle 1: The entity demonstrates a commitment to integrity and ethical values.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.1.1",
+    "subject": "Equinix\u2019s code of conduct",
+    "predicate": "included within the employee manual",
+    "page": 1,
+    "excerpt": "Equinix\u2019s code of conduct is included within the employee manual to communicate company values and behavioral standards to personnel.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.1.2",
+    "subject": "Employees",
+    "predicate": "complete an acknowledgment form upon hire indicating that they have been given",
+    "page": 1,
+    "excerpt": "Employees complete an acknowledgment form upon hire indicating that they have been given access to the employee manual and understand their responsibility for adhering to the code of conduct outlined within the manual.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.1.3",
+    "subject": "New hires",
+    "predicate": "sign an employee agreement consenting to not disclose confidential or",
+    "page": 1,
+    "excerpt": "New hires are required to sign an employee agreement consenting to not disclose confidential or proprietary client and company information to unauthorized parties.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.1.4",
+    "subject": "background and reference checks",
+    "predicate": "conducted for new hire employees",
+    "page": 1,
+    "excerpt": "CC1.1.4 Background and reference checks are conducted for new hire employees, subject to local laws. Inspected the background and reference check results for a sample of employees hired during the period to determine that a background and/or reference check was completed, subject to local laws, for each employee sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.2",
+    "subject": "The board of directors",
+    "predicate": "demonstrates independence from management and exercises oversight of the",
+    "page": 1,
+    "excerpt": "The board of directors demonstrates independence from management and exercises oversight of the development and performance of internal control.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.2.1",
+    "subject": "The board of directors and senior management team",
+    "predicate": "has assigned authorities for defining and implementing security policies",
+    "page": 1,
+    "excerpt": "The board of directors and senior management team has assigned authorities for defining and implementing security policies, to the chief information security officer. Inspected the Equinix security policy statement to determine that the board of directors and senior management team had formally assigned authorities for defining and implementing security policies to the chief information security\n\n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.2.2",
+    "subject": "Members of top management",
+    "predicate": "meet",
+    "page": 1,
+    "excerpt": "Members of top management meet, at minimum, on an annual basis to review security, compliance and operational metrics related to the achievement of the organization\u2019s information security objectives, and their continued alignment with the company\u2019s mission.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.3",
+    "subject": "Management",
+    "predicate": "establishes",
+    "page": 1,
+    "excerpt": "Management establishes, with board oversight, structures, reporting lines, and appropriate authorities and responsibilities in the pursuit of objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.3.2",
+    "subject": "position descriptions",
+    "predicate": "documented",
+    "page": 1,
+    "excerpt": "CC1.3.2 Documented position descriptions are in place to define the skills, responsibilities, and knowledge levels required for particular jobs. Inspected the documented position descriptions for IBX employment positions to determine that documented position descriptions were in place to define the skills and knowledge levels required for the competence levels of particular jobs. No exceptions was",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC1.3.4",
+    "subject": "Members of top management",
+    "predicate": "meet",
+    "page": 1,
+    "excerpt": "Members of top management meet, at minimum, on an annual basis to review security, compliance and operational metrics related to the achievement of the organization\u2019s information security objectives, and their continued alignment with the company\u2019s mission.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.3.4",
+    "subject": "Members of top management",
+    "predicate": "review",
+    "page": 1,
+    "excerpt": "Members of top management meet, at minimum, on an annual basis to review security, compliance and operational metrics related to the achievement of the organization\u2019s information security objectives, and their continued alignment with the company\u2019s mission.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.3.4",
+    "subject": "Members of top management",
+    "predicate": "review",
+    "page": 1,
+    "excerpt": "No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.4",
+    "subject": "The entity",
+    "predicate": "demonstrates a commitment to attract, develop, and retain competent individuals",
+    "page": 1,
+    "excerpt": "CC1.4 COSO Principle 4: The entity demonstrates a commitment to attract, develop, and retain competent individuals in alignment with objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.4.1",
+    "subject": "new employee hiring procedures",
+    "predicate": "in place",
+    "page": 1,
+    "excerpt": "CC1.4.1 New employee hiring procedures are in place to guide the hiring process and include verification that candidates possess the required qualifications to perform the duties as outlined in the job description. Inspected the new employee hiring workflow procedures to determine that new employee hiring procedures were in place to guide the hiring process and included verification that...",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC1.4.2",
+    "subject": "Training courses",
+    "predicate": "are available to new and existing employees to maintain and advance the skill",
+    "page": 1,
+    "excerpt": "Inquired of the global operations compliance senior specialist regarding the employee training procedures to determine that training courses were available to new and existing employees to maintain and advance the skill level of personnel. No exceptions noted. Inspected the corporate training portal and example training course documentation made available to employees to determine that training ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.4.3",
+    "subject": "Employees",
+    "predicate": "complete new hire security awareness training and annual security awareness",
+    "page": 1,
+    "excerpt": "Employees are required to complete new hire security awareness training and annual security awareness training thereafter, to understand their obligations and responsibilities to comply with the corporate and business unit security policies. Inspected the security awareness training materials and completion records for a sample of employees hired during the period to determine that security\naware\n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.4.4",
+    "subject": "Management",
+    "predicate": "conducts a performance review of employees on an annual basis to evaluate",
+    "page": 1,
+    "excerpt": "Inspected the most recent performance review documentation for a sample of existing employees to determine that an evaluation of individual performance against expected levels of performance and conducts was performed during the period for each employee sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.4.5",
+    "subject": "position descriptions",
+    "predicate": "documented",
+    "page": 1,
+    "excerpt": "CC1.4.5 Documented position descriptions are in place to define the skills, responsibilities, and knowledge levels required for particular jobs. Inspected the documented position descriptions for IBX employment positions to determine that documented position descriptions were in place to define the skills and knowledge levels required for the competence levels of particular jobs. No exceptions was",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC1.5",
+    "subject": "individuals",
+    "predicate": "accountability",
+    "page": 1,
+    "excerpt": "CC1.5 COSO Principle 5: The entity holds individuals accountable for their internal control responsibilities in the pursuit of objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.1",
+    "subject": "employee sanction policies",
+    "predicate": "documented",
+    "page": 1,
+    "excerpt": "Employee sanction policies are documented to communicate consequences for disciplinary actions, up to and including termination, for violations to company policies and the code of conduct.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.1",
+    "subject": "employee sanction policies",
+    "predicate": "in place",
+    "page": 1,
+    "excerpt": "Inspected the employee sanction policies to determine that documented employee sanction policies were in place to communicate consequences for disciplinary action, up to and including termination, for violation to company policies and the code of conduct.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.1",
+    "subject": "employee sanction policies",
+    "predicate": "no exceptions",
+    "page": 1,
+    "excerpt": "No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.2",
+    "subject": "Whistleblower protection policy and ethics and com",
+    "predicate": "is in place",
+    "page": 1,
+    "excerpt": "CC1.5.2 A whistleblower protection policy and ethics and compliance hotline is in place for employees to anonymously report violations, complaints or concerns related to company policies and the code of conduct. Inspected the whistleblower protection policy and EthicsPoint portal to determine that a whistleblower protection policy and ethics and compliance hotline was in place for employees to",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.3",
+    "subject": "Management",
+    "predicate": "conducts a performance review of employees on an annual basis to evaluate",
+    "page": 1,
+    "excerpt": "Inspected the most recent performance review documentation for a sample of current employees to determine that an evaluation of individual performance against expected levels of performance and conducts was performed during the period for each employee sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.4",
+    "subject": "Employees",
+    "predicate": "complete new hire security awareness training and annual security awareness",
+    "page": 1,
+    "excerpt": "Employees are required to complete new hire security awareness training and annual security awareness training thereafter, to understand their obligations and responsibilities to comply with the corporate and business unit security policies.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.5",
+    "subject": "Employees",
+    "predicate": "complete an acknowledgment form upon hire indicating that they have been given",
+    "page": 1,
+    "excerpt": "Employees complete an acknowledgment form upon hire indicating that they have been given access to the employee manual and understand their responsibility for adhering to the code of conduct outlined within the manual.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.6",
+    "subject": "New hires",
+    "predicate": "sign an employee agreement consenting to not disclose confidential or propietary",
+    "page": 1,
+    "excerpt": "New hires are required to sign an employee agreement consenting to not disclose confidential or proprietary client and company information to unauthorized parties.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC1.5.7",
+    "subject": "Management",
+    "predicate": "provides internal control performance metrics to the ISMC on an annual basis and",
+    "page": 1,
+    "excerpt": "CC1.5.7 Management provides internal control performance metrics to the ISMC on an annual basis and documents the metrics in internal control performance dashboards for ISMC review. Inspected the most recent annual management meeting minutes and performance metrics dashboard to determine that internal control performance metrics were documented within internal control performance dashboards for\n\n\n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.1",
+    "subject": "entity",
+    "predicate": "obtains or generates and uses relevant, quality information to support the",
+    "page": 1,
+    "excerpt": "The entity obtains or generates and uses relevant, quality information to support the functioning of internal control.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.1.2",
+    "subject": "Internal data sources",
+    "predicate": "used to obtain relevant, and quality information to support the functioning of",
+    "page": 1,
+    "excerpt": "CC2.1.2 Internal data sources are used to obtain relevant, and quality information to support the functioning of internal control, including the following: \u2022 Security monitoring system alert notifications \u2022 Infrastructure and BMS monitoring applications to monitor system availability and capacity levels \u2022 Annual internal audit and tracking of identified issues through resolution Inspected the fol",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.1.3",
+    "subject": "External data sources",
+    "predicate": "used to obtain relevant, and quality information",
+    "page": 1,
+    "excerpt": "CC2.1.3 External data sources are used to obtain relevant, and quality information to support the functioning of internal control, including the following: \u2022 Monthly network vulnerability assessments and related remediation plans \u2022 Annual penetration testing for the customer web portal and related remediation plans \u2022 Preventative maintenance reports to test and confirm the operations of...",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC2.1.4",
+    "subject": "entity's global information security group",
+    "predicate": "monitors the security impact of emerging technologies and threats and notifies",
+    "page": 1,
+    "excerpt": "The entity\u2019s global information security group monitors the security impact of emerging technologies and threats and notifies relevant personnel. Inspected example IT security subscription service e-mail notifications received during the period to determine that the entity\u2019s global information security group monitored the security impact of emerging technologies and threats and notified relevant\n\n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.2",
+    "subject": "entity",
+    "predicate": "communicates information",
+    "page": 1,
+    "excerpt": "The entity internally communicates information, including objectives and responsibilities for internal control, necessary to support the functioning of internal control.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.2.1",
+    "subject": "policies",
+    "predicate": "documented",
+    "page": 1,
+    "excerpt": "The policies are communicated to internal personnel via the company intranet.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.2.1",
+    "subject": "policies",
+    "predicate": "in place",
+    "page": 1,
+    "excerpt": "policies were in place to guide personnel in the entity\u2019s security and availability commitments and the associated system requirements.",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC2.2.1",
+    "subject": "policies",
+    "predicate": "communicated",
+    "page": 1,
+    "excerpt": "policies were communicated to internal personnel via the company intranet.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.2.1",
+    "subject": "policies",
+    "predicate": "noted",
+    "page": 1,
+    "excerpt": "No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.2.2",
+    "subject": "Employees",
+    "predicate": "complete new hire security awareness training and annual security awareness",
+    "page": 1,
+    "excerpt": "Employees are required to complete new hire security awareness training and annual security awareness training thereafter, to understand their obligations and responsibilities to comply with the corporate and business unit security policies. Inspected the security awareness training materials and completion records for a sample of employees hired during the period to determine that security\naware\n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.2.3",
+    "subject": "position descriptions",
+    "predicate": "documented",
+    "page": 1,
+    "excerpt": "CC2.2.3 Documented position descriptions are in place to define the skills, responsibilities, and knowledge levels required for particular jobs. Inspected the documented position descriptions for IBX employment positions to determine that documented position descriptions were in place to define the skills and knowledge levels required for the competence levels of particular jobs. No exceptions was",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC2.2.4",
+    "subject": "policies and procedures for reporting incidents",
+    "predicate": "documented",
+    "page": 2,
+    "excerpt": "CC2.2.4 Documented policies and procedures for reporting incidents are in place to guide personnel in identifying and reporting failures, incidents, concerns, and other complaints. Inspected the incident management policies, procedures, and workflows to determine that documented policies and procedures for reporting incidents were in place to guide personnel in identifying and reporting failures, ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.2.5",
+    "subject": "change review meeting",
+    "predicate": "held",
+    "page": 1,
+    "excerpt": "A change review meeting is held on a weekly basis to discuss and communicate the ongoing and upcoming projects including those that may affect system security and availability.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.2.5",
+    "subject": "change review meeting",
+    "predicate": "sampled",
+    "page": 1,
+    "excerpt": "Inspected the change review meeting documentation for a sample of weeks during the period to determine that a change review meeting was held to discuss and communicate the ongoing and upcoming projects including those that may affect the system security and availability for each week sampled.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.3",
+    "subject": "entity",
+    "predicate": "communicates with external parties regarding matters affecting the functioning",
+    "page": 1,
+    "excerpt": "The entity communicates with external parties regarding matters affecting the functioning of internal control.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.3.1",
+    "subject": "Customers",
+    "predicate": "sign contracts",
+    "page": 1,
+    "excerpt": "Customers are required to sign contracts stating Equinix\u2019s security and availability commitments, the associated system requirements, and a nondisclosure agreement.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.3.2",
+    "subject": "Equinix",
+    "predicate": "security and availability commitments and the associated system requirements was",
+    "page": 1,
+    "excerpt": "Equinix's security and availability commitments and the associated system requirements were documented and communicated via IBX policies published to the company website.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC2.3.4",
+    "subject": "customer end-users",
+    "predicate": "access to ECP and procedures for contacting the GSD to report incidents, concern",
+    "page": 1,
+    "excerpt": "Inspected the IBX policies and procedures and GSD contact information published the company website, and the reporting mechanisms made available via the ECP to determine that customer end- users were provided with access to ECP and procedures for contacting procedures for contacting the GSD to report incidents, concerns, or complaints related security and availability. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.1",
+    "subject": "The entity",
+    "predicate": "specifies objectives with sufficient clarity to enable the identification and",
+    "page": 1,
+    "excerpt": "The entity specifies objectives with sufficient clarity to enable the identification and assessment of risks relating to objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.1.1",
+    "subject": "documented information security risk management",
+    "predicate": "policies and procedures are in place",
+    "page": 1,
+    "excerpt": "CC3.1.1 Documented information security risk management policies and procedures are in place to guide personnel in the identification of relevant operations, security, and compliance objectives of the company. Inspected the risk assessment policies, procedures, and standard risk assessment templates to determine that documented information security risk management policies and procedures were in\n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.1.2",
+    "subject": "annual risk assessment",
+    "predicate": "performed on an annual basis",
+    "page": 1,
+    "excerpt": "A risk assessment is performed on an annual basis that considers the identification and assessment of risks related to company objectives. ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.1.2",
+    "subject": "risks",
+    "predicate": "identified using a risk evaluation process",
+    "page": 1,
+    "excerpt": "Risks that are identified are rated using a risk evaluation process and formally documented, along with mitigation strategies, for management review.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.1.2",
+    "subject": "management review",
+    "predicate": "for management review",
+    "page": 1,
+    "excerpt": "Inspected the most recent annual threat and risk assessments, mitigation tracking documentation, and evidence of management review for a sample of IBX data centers to determine that a risk assessment was performed during the period for each IBX data center sampled that considered the identification and assessment of risks relating to the company\u2019s objectives, and that risks were identified using a",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.2.2",
+    "subject": "Annual risk assessment",
+    "predicate": "performed on an annual basis",
+    "page": 1,
+    "excerpt": "CC3.2.2 A risk assessment is performed on an annual basis that considers the identification and assessment of risks related to company objectives. Risks that are identified are rated using a risk evaluation process and formally documented, along with mitigation strategies, for management review. Inspected the most recent annual threat and risk assessments, mitigation tracking documentation, and e",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.2.3",
+    "subject": "asset inventory listings of hardware and systems",
+    "predicate": "maintained for review during the annual risk assessment process",
+    "page": 1,
+    "excerpt": "CC3.2.3 Asset inventory listings of hardware and systems required for the provision of data center housing services are maintained for review during the annual risk assessment process. Inquired of the operations compliance senior specialist regarding the risk assessment procedures to determine that asset inventory listings of hardware and systems required for the provision of data center housing ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.3",
+    "subject": "entity",
+    "predicate": "considering potential for fraud",
+    "page": 1,
+    "excerpt": "CC3.3 COSO Principle 8: The entity considers the potential for fraud in assessing risks to the achievement of objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.3.1",
+    "subject": "documented information security risk management",
+    "predicate": "policies and procedures are in place",
+    "page": 1,
+    "excerpt": "CC3.3.1 Documented information security risk management policies and procedures are in place to guide personnel in identifying and analyzing risks including the potential for fraud. Inspected the risk assessment policies, procedures, and standard risk assessment templates to determine that documented information security risk management policies and procedures were in place to guide personnel in",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.3.2",
+    "subject": "annual risk assessment",
+    "predicate": "performed on an annual basis",
+    "page": 1,
+    "excerpt": "A risk assessment is performed on an annual basis that considers the risks related to the achievement of objectives, including the potential for fraud. ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.4",
+    "subject": "entity",
+    "predicate": "identifies and assesses changes",
+    "page": 1,
+    "excerpt": "CC3.4 COSO Principle 9: The entity identifies and assesses changes that could significantly impact the system of internal control.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.4.1",
+    "subject": "policies and procedures",
+    "predicate": "are in place",
+    "page": 1,
+    "excerpt": "CC3.4.1 Documented policies and procedures are in place to guide personnel in the identification and assessment of relevant changes that could significantly impact the system and services provided. Inspected the risk assessment policies, procedures, and standard risk assessment templates to determine that documented policies and procedures were in place to guide personnel in the identification and",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.4.2",
+    "subject": "Annual risk assessment",
+    "predicate": "performed on an annual basis",
+    "page": 1,
+    "excerpt": "A risk assessment is performed on an annual basis that considers the identification and assessment of risks that could significantly impact the system of internal control. Risks that are identified are rated using a risk evaluation process and formally documented, along with mitigation strategies, for management review.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC3.4.3",
+    "subject": "The entity\u2019s global information security group",
+    "predicate": "monitors the security impact of emerging technologies and threats and notifies",
+    "page": 1,
+    "excerpt": "The entity\u2019s global information security group monitors the security impact of emerging technologies and threats and notifies relevant personnel. Inspected example IT security subscription service e-mail notifications received during the period to determine that the entity\u2019s global information security group monitored the security impact of emerging technologies and threats and notified relevant ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.1",
+    "subject": "The entity",
+    "predicate": "selects, develops, and performs ongoing and/or separate evaluations",
+    "page": 1,
+    "excerpt": "CC4.1 COSO Principle 16: The entity selects, develops, and performs ongoing and/or separate evaluations to ascertain whether the components of internal control are present and functioning.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.1.1",
+    "subject": "security assessments and monitoring activities",
+    "predicate": "performed",
+    "page": 1,
+    "excerpt": "CC4.1.1 Security assessments and monitoring activities are performed to help ensure that components of internal control are present and functioning, and include, but are not limited to, the following: \u2022 Monthly network vulnerability assessments and related remediation plans \u2022 Annual penetration testing for the customer web portal and related remediation plans \u2022 Preventative maintenance reports to\n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.1.2",
+    "subject": "Risk treatment activities",
+    "predicate": "documented, tracked, communicated",
+    "page": 1,
+    "excerpt": "CC4.1.2 Risk treatment activities are documented, tracked, and communicated to those parties responsible for taking corrective action on internal control deficiencies. Inspected the most recent annual threat and risk assessments and mitigation tracking documentation for a sample of IBX data centers to determine that risk treatment activities were documented, tracked, and communicated to parties\u2019 \n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.2",
+    "subject": "entity",
+    "predicate": "evaluates and communicates internal control deficiencies",
+    "page": 1,
+    "excerpt": "The entity evaluates and communicates internal control deficiencies in a timely manner to those parties responsible for taking corrective action, including senior management and the board of directors, as appropriate.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.2.1",
+    "subject": "security assessments and monitoring activities",
+    "predicate": "performed",
+    "page": 1,
+    "excerpt": "CC4.2.1 Security assessments and monitoring activities are performed to help ensure that components of internal control are present and functioning, and include, but are not limited to, the following: \u2022 Monthly network vulnerability assessments and related remediation plans \u2022 Annual penetration testing for the customer web portal and related remediation plans \u2022 Preventative maintenance reports to\n",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.2.2",
+    "subject": "Members of top management",
+    "predicate": "meet",
+    "page": 1,
+    "excerpt": "Members of top management meet, at minimum, on an annual basis to review security, compliance and operational metrics related to the achievement of the organization\u2019s information security objectives, and their continued alignment with the company\u2019s mission.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.2.2",
+    "subject": "Members of top management",
+    "predicate": "review",
+    "page": 1,
+    "excerpt": "Members of top management meet, at minimum, on an annual basis to review security, compliance and operational metrics related to the achievement of the organization\u2019s information security objectives, and their continued alignment with the company\u2019s mission.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.2.2",
+    "subject": "Members of top management",
+    "predicate": "review",
+    "page": 1,
+    "excerpt": "Inspected the management review procedure, and the most recent annual management meeting minutes to determine that members of top management met during the period to review security, compliance and operational metrics related to the achievement of the company\u2019s information security objectives. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.2.3",
+    "subject": "Information security audit and compliance",
+    "predicate": "conducted by accredited independent third-party assessors",
+    "page": 1,
+    "excerpt": "CC4.2.3 Information security audit and compliance assessments are conducted by accredited independent third-party assessors on an annual basis.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.2.3",
+    "subject": "information security audit and compliance",
+    "predicate": "results reviewed by management",
+    "page": 1,
+    "excerpt": "The results of the assessments are reviewed by management.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC4.2.3",
+    "subject": "information security audit and compliance",
+    "predicate": "no exceptions noted",
+    "page": 1,
+    "excerpt": "No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.1",
+    "subject": "The entity",
+    "predicate": "selects and develops control activities",
+    "page": 1,
+    "excerpt": "CC5.1 COSO Principle 10: The entity selects and develops control activities that contribute to the mitigation of risks to the achievement of objectives to acceptable levels.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.1.2",
+    "subject": "Risk treatment activities",
+    "predicate": "documented, tracked, and communicated to those parties responsible for taking",
+    "page": 1,
+    "excerpt": "Inspected the most recent annual threat and risk assessments and mitigation tracking documentation for a sample of IBX data centers to determine that risk treatment activities were documented, tracked, and communicated to parties\u2019 responsible parties for taking corrective action during the review period for each IBX data center sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.1.3",
+    "subject": "key controls matrix",
+    "predicate": "documented and maintained",
+    "page": 1,
+    "excerpt": "CC5.1.3 A key controls matrix is documented and maintained identifies the control activities to support the achievement of objectives along with control justifications and a description of how the control activities are implemented. Inspected the statement of applicability controls matrix to determine that a key controls matrix was in place that identified the entity\u2019s control activities...",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC5.2",
+    "subject": "entity",
+    "predicate": "selects and develops",
+    "page": 1,
+    "excerpt": "The entity also selects and develops general control activities over technology to support the achievement of objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.2.1",
+    "subject": "Risk treatment activities",
+    "predicate": "documented, tracked, and communicated to those parties responsible for taking",
+    "page": 2,
+    "excerpt": "Inspected the most recent annual threat and risk assessments and mitigation tracking documentation for a sample of IBX data centers to determine that risk treatment activities were documented, tracked, and communicated to parties\u2019 responsible parties for taking corrective action during the review period for each IBX data center sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.2.3",
+    "subject": "key controls matrix",
+    "predicate": "documented and maintained",
+    "page": 1,
+    "excerpt": "CC5.2.3 A key controls matrix is documented and maintained identifies the technology control activities to support the achievement of objectives along with control justifications and a description of how the control activities are implemented. Inspected the statement of applicability controls matrix to determine that a key controls matrix was in place that identified the entity\u2019s control...",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC5.3",
+    "subject": "entity",
+    "predicate": "deploys control activities",
+    "page": 1,
+    "excerpt": "The entity deploys control activities through policies that establish what is expected and in procedures that put policies into action.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.3.2",
+    "subject": "Employee sanction policies",
+    "predicate": "documented",
+    "page": 1,
+    "excerpt": "CC5.3.2 Employee sanction policies are documented to communicate consequences for disciplinary actions, up to and including termination, for violations to company policies and the code of conduct.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.3.2",
+    "subject": "Employee sanction policies",
+    "predicate": "communicate",
+    "page": 1,
+    "excerpt": "CC5.3.2 Employee sanction policies are documented to communicate consequences for disciplinary actions, up to and including termination, for violations to company policies and the code of conduct.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.3.2",
+    "subject": "Employee sanction policies",
+    "predicate": "in place",
+    "page": 1,
+    "excerpt": "Inspected the employee sanction policies to determine that documented employee sanction policies were in place to communicate consequences for disciplinary action, up to and including termination, for violation to company policies and the code of conduct.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.3.2",
+    "subject": "Employee sanction policies",
+    "predicate": "in place",
+    "page": 1,
+    "excerpt": "No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC5.3.3",
+    "subject": "Employees",
+    "predicate": "complete new hire security awareness training and annual security awareness",
+    "page": 1,
+    "excerpt": "Employees are required to complete new hire security awareness training and annual security awareness training thereafter, to understand their obligations and responsibilities to comply with the corporate and business unit security policies. ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.1",
+    "subject": "The entity",
+    "predicate": "implements logical access security software, infrastructure, and architectures",
+    "page": 1,
+    "excerpt": "The entity implements logical access security software, infrastructure, and architectures over protected information assets to protect them from security events to meet the entity's objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.1.3",
+    "subject": "Predefined security groups",
+    "predicate": "are utilized to assign role-based access privileges and segregate access to data",
+    "page": 1,
+    "excerpt": "Inspected the network domain user account and role assignments listings with the assistance of the global operations compliance senior specialist to determine that predefined security groups were utilized to assign role-based access privileges and segregate access to data for the corporate network domain. No exceptions noted. Inspected the operating system user account and role assignment listings",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.1.4",
+    "subject": "administrative access privileges",
+    "predicate": "restricted to user accounts accessible by authorized personnel",
+    "page": 1,
+    "excerpt": "Inspected the network domain administrator user account listing with the assistance of the global operations compliance senior specialist to determine that administrative access privileges to the corporate network domain were restricted to authorized personnel. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.1.4",
+    "subject": "administrative access privileges",
+    "predicate": "restricted to user accounts accessible by authorized personnel",
+    "page": 1,
+    "excerpt": "Inspected the operating system administrator user account listing for a sample of production servers with the assistance of the information security senior engineer to determine that administrative access privileges to the operating systems were restricted to authorized personnel for each server sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.2",
+    "subject": "entity",
+    "predicate": "registers and authorizes new internal and external users whose access is",
+    "page": 1,
+    "excerpt": "The entity registers and authorizes new internal and external users whose access is administered by the entity. For those users whose access is administered by the entity, user system credentials are removed when user access is no longer authorized.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.2.1",
+    "subject": "Procedures exist and are followed to establish new",
+    "predicate": "to establish new user access privileges to the corporate network domain",
+    "page": 1,
+    "excerpt": "CC6.2.1 Procedures exist and are followed to establish new user access privileges to the corporate network domain. Inspected the user access request tracking documentation for a sample of employees hired during the period to determine that procedures existed and were followed to establish new user access privileges to corporate network domain for each employee sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.2.2",
+    "subject": "Procedures",
+    "predicate": "exist and are followed",
+    "page": 1,
+    "excerpt": "CC6.2.2 Procedures exist and are followed to revoke corporate network domain access upon termination of employment. Inspected the termination notification e-mail and evidence of corporate network domain user access revocation for a sample of employees terminated during the period to determine that procedures existed and were followed to revoke corporate network domain access upon termination of...",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC6.3.1",
+    "subject": "Procedures exist and are followed to establish new",
+    "predicate": "to establish new user access privileges to the corporate network domain",
+    "page": 1,
+    "excerpt": "CC6.3.1 Procedures exist and are followed to establish new user access privileges to the corporate network domain. Inspected the user access request tracking documentation for a sample of employees hired during the period to determine that procedures existed and were followed to establish new user access privileges to corporate network domain for each employee sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.3.2",
+    "subject": "Procedures exist and are followed to revoke",
+    "predicate": "to revoke corporate network domain access upon termination of employment",
+    "page": 1,
+    "excerpt": "CC6.3.2 Procedures exist and are followed to revoke corporate network domain access upon termination of employment. Inspected the termination notification e-mail and evidence of corporate network domain user access revocation for a sample of employees terminated during the period to determine that procedures existed and were followed to revoke corporate network domain access upon termination of...",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC6.3.3",
+    "subject": "predefined security groups",
+    "predicate": "utilized to assign role-based access privileges and segregate access to data for",
+    "page": 1,
+    "excerpt": "Inspected the network domain user account and role assignments listings with the assistance of the global operations compliance senior specialist to determine that predefined security groups were utilized to assign role-based access privileges and segregate access to data for the corporate network domain. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.3.4",
+    "subject": "administrative access privileges",
+    "predicate": "restricted to user accounts accessible by authorized personnel",
+    "page": 1,
+    "excerpt": "Inspected the network domain administrator user account listing with the assistance of the global operations compliance senior specialist to determine that administrative access privileges to the corporate network domain were restricted to authorized personnel. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.3.4",
+    "subject": "administrative access privileges",
+    "predicate": "restricted to user accounts accessible by authorized personnel",
+    "page": 1,
+    "excerpt": "Inspected the operating system administrator user account listing for a sample of production servers with the assistance of the information security senior engineer to determine that administrative access privileges to the operating systems were restricted to authorized personnel for each server sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.1",
+    "subject": "Physical access privileges",
+    "predicate": "establish and make changes",
+    "page": 1,
+    "excerpt": "CC6.4.1 Procedures exist and are followed to establish and make changes to physical access privileges for customers. Inquired of the data center site managers and security personnel regarding the physical access procedures to IBX data centers to determine that procedures were in place and followed to establish and make changes to physical access privileges for customers. No exceptions noted. Inspe",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.2",
+    "subject": "physical access privileges",
+    "predicate": "establish and make changes",
+    "page": 1,
+    "excerpt": "CC6.4.2 Procedures exist and are followed to establish and make changes to IBX physical access privileges for Equinix employees who have a need to access an IBX. Inquired of the data center site managers and security personnel regarding the physical access procedures to IBX data centers to determine that procedures were in place and followed to establish and make changes to physical access...",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC6.4.3",
+    "subject": "IBX data centers",
+    "predicate": "physical access procedures",
+    "page": 1,
+    "excerpt": "Observed the physical access procedures at the IBX data centers with the assistance of the data center site managers and security personnel to determine that onsite security or Equinix personnel reviewed valid government",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.5",
+    "subject": "IBX data center, warehouse area, and storage cages",
+    "predicate": "dual control biometric, four-digit personal identification numbers, and / or 4.5",
+    "page": 1,
+    "excerpt": "CC6.4.5 Dual control biometric, four-digit personal identification numbers, and / or proxy card readers are in place to help ensure that only authorized individuals have the ability to access the IBX data center, warehouse area, and storage cages. This control shall be applied as and where applicable. Observed the site entrances and doors throughout the IBX data centers with the assistance of the ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.6",
+    "subject": "Biometric hand scan and / or proxy card access to",
+    "predicate": "is electronically logged and maintained as per data privacy laws",
+    "page": 1,
+    "excerpt": "Exceptions or attempts of unauthorized access are tracked and escalated. Inquired of the data center site managers and security personnel regarding the physical access logging and exception escalation procedures to determine that biometric hand scan and / or proxy card access to the IBX data centers was electronically logged and maintained, as per data privacy laws, and that exceptions or attempts",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.7",
+    "subject": "Internal and external monitoring of physical",
+    "predicate": "performed through the use of",
+    "page": 1,
+    "excerpt": "Observed the surveillance camera systems and security monitoring procedures throughout the IBX data centers with the assistance of the data center site managers and security personnel to determine that internal and external monitoring of data center activity was performed through the use of security guard personnel and / or surveillance cameras at each IBX data center. No exceptions noted. Inspect",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.8",
+    "subject": "CCTV surveillance cameras",
+    "predicate": "are in place to monitor and record activity",
+    "page": 1,
+    "excerpt": "CCTV surveillance cameras are in place to monitor and record activity at the entrances to and throughout the IBX data center facilities. Surveillance camera logs are recorded and maintained minimum of 90 days unless specified otherwise per local country law/regulation for IBX data center facilities. Observed the CCTV surveillance cameras throughout the IBX data centers with the assistance of the <",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.9",
+    "subject": "Ingress mantraps",
+    "predicate": "are in place and administered to restrict access to IBX data center facilities",
+    "page": 1,
+    "excerpt": "Ingress mantraps are in place and administered to restrict access to IBX data center facilities to only authorized individuals. Else, there needs to be continuous monitoring of IBX access doors leading to the exterior. Observed the site entrances and doors throughout the IBX data centers with the assistance of the data center site managers and security personnel to determine that ingress mantraps",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.10",
+    "subject": "Each customer",
+    "predicate": "has a defined space within the IBX data center that is physically secured within",
+    "page": 1,
+    "excerpt": "Observed the locked cages and / or cabinets at the IBX data centers with the assistance of the data center site managers and security personnel to determine that customers had defined space that was physically secured within a locked cage and / or cabinet at each IBX data center. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.11",
+    "subject": "data center floor",
+    "predicate": "does not have windows leading to the exterior of the building",
+    "page": 1,
+    "excerpt": "The data center floor does not have windows leading to the exterior of the building, where applicable. In cases due to the existing infrastructure having windows and entry points leading to the exterior, then they need to be locked from inside or access controlled.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.4.12",
+    "subject": "Physical access reviews",
+    "predicate": "are documented and approved by information security personnel",
+    "page": 1,
+    "excerpt": "CC6.4.12 Physical access reviews are documented and approved by information security personnel at least annually for IBX data centers. Inspected the most recently completed physical access review documentation for a sample of IBX data centers to determine that physical access reviews were documented and approved by information security personnel during the period for each IBX data center sampled. ",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.5",
+    "subject": "entity",
+    "predicate": "discontinues logical and physical protections over physical assets",
+    "page": 1,
+    "excerpt": "The entity discontinues logical and physical protections over physical assets only after the ability to read or recover data and software from those assets has been diminished and is no longer required to meet the entity\u2019s objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.5.1",
+    "subject": "Asset removal and disposal policies",
+    "predicate": "are in place to guide personnel in the disposal of assets to ensure data and",
+    "page": 1,
+    "excerpt": "CC6.5.1 Asset removal and disposal policies are in place to guide personnel in the disposal of assets to ensure data and software is unrecoverable prior to retiring a physical asset. Inspected the asset disposal policies to determine that asset removal and disposal policies were in place to guide personnel in the disposal of assets to ensure data and software was unrecoverable prior to retiring a",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.5.2",
+    "subject": "Physical media assets",
+    "predicate": "retired",
+    "page": 1,
+    "excerpt": "Inspected the completed disposal forms and certificates of destruction for a sample of physical media assets retired during the period to determine that sensitive data was securely wiped or destroyed for each retired asset sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.6",
+    "subject": "The entity",
+    "predicate": "implements logical access security measures",
+    "page": 1,
+    "excerpt": "The entity implements logical access security measures to protect against threats from sources outside its system boundaries.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.6.1",
+    "subject": "Firewalls",
+    "predicate": "configured to filter unauthorized inbound network traffic from the Internet and",
+    "page": 6,
+    "excerpt": "CC6.6.1 Firewalls are configured to filter unauthorized inbound network traffic from the Internet and deny network connections not explicitly authorized by a rule. Inspected the global firewall ruleset and system generated listing of firewall devices managed via the centralized firewall management system to determine that firewall systems were configured to filter unauthorized inbound network",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.6.2",
+    "subject": "IDS",
+    "predicate": "is utilized to monitor and analyze network traffic for possible or actual",
+    "page": 1,
+    "excerpt": "Inspected the IDS dashboard, threat detection configurations, and example threat event logs generated during the period to determine that an IDS was utilized to monitor and analyze network traffic for possible or actual security breach events. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.6.3",
+    "subject": "zero trust network access solution",
+    "predicate": "utilized to establish secure connections and is configured to enforce two-factor",
+    "page": 6,
+    "excerpt": "CC6.6.3 A zero trust network access solution is utilized to establish secure connections and is configured to enforce two-factor authentication requirements for access to the corporate network. Inspected the zero trust network access solution user authentication and encryption policy configurations to determine that a zero trust network access solution was utilized to establish secure connections",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.6.5",
+    "subject": "ECP web servers",
+    "predicate": "utilize TLS 1.2 encryption for web communication sessions",
+    "page": 1,
+    "excerpt": "CC6.6.5 ECP web servers utilize TLS 1.2 encryption for web communication sessions. Inspected digital certificates for the ECP web servers to determine that the ECP web servers utilized TLS 1.2 encryption for web communication sessions. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.7.1",
+    "subject": "policies",
+    "predicate": "prohibit the transmission of sensitive information over the Internet or other",
+    "page": 1,
+    "excerpt": "CC6.7.1 Policies are in place that prohibit the transmission of sensitive information over the Internet or other public communications paths unless it is encrypted. Inspected the information security policies to determine that policies were in place that prohibited the transmission of sensitive information over the Internet or other public communications paths unless it was encrypted. Noexceptions",
+    "validation_score": 0.97
+  },
+  {
+    "control_id": "CC6.7.2",
+    "subject": "ECP web servers",
+    "predicate": "utilize TLS 1.2 encryption for web communication sessions",
+    "page": 1,
+    "excerpt": "CC6.7.2 ECP web servers utilize TLS 1.2 encryption for web communication sessions. Inspected digital certificates for the ECP web servers to determine that the ECP web servers utilized TLS 1.2 encryption for web communication sessions. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.8",
+    "subject": "The entity",
+    "predicate": "implements controls to prevent or detect and act upon the introduction of",
+    "page": 1,
+    "excerpt": "The entity implements controls to prevent or detect and act upon the introduction of unauthorized or malicious software to meet the entity\u2019s objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.8.2",
+    "subject": "SIEM application",
+    "predicate": "utilized to monitor and log certain security events for the in-scope systems",
+    "page": 1,
+    "excerpt": "CC6.8.2 A SIEM application is utilized to monitor and log certain security events for the in-scope systems when predefined conditions are met. Inspected the SIEM application configurations, system-generated listing of monitored devices, and example security event logs generated during the period to determine that a SIEM application was utilized to monitor and log certain security events for the in",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC6.8.3",
+    "subject": "IDS",
+    "predicate": "monitors and analyzes network traffic for security breach events",
+    "page": 1,
+    "excerpt": "CC6.8.3 An IDS is utilized to monitor and analyze network traffic for possible or actual security breach events. Inspected the IDS dashboard, threat detection configurations, and example threat event logs generated during the period to determine that an IDS was utilized to monitor and analyze network traffic for possible or actual security breach events. No exceptions noted. System Operations",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.1.1",
+    "subject": "SIEM application",
+    "predicate": "utilized to monitor and log certain security events for the in-scope systems",
+    "page": 1,
+    "excerpt": "CC7.1.1 A SIEM application is utilized to monitor and log certain security events for the in-scope systems when predefined conditions are met. Inspected the SIEM application configurations, system-generated listing of monitored devices, and example security event logs generated during the period to determine that a SIEM application was utilized to monitor and log certain security events for the in",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.2",
+    "subject": "entity",
+    "predicate": "monitors system components and the operation of those components for anomalies",
+    "page": 1,
+    "excerpt": "The entity monitors system components and the operation of those components for anomalies that are indicative of malicious acts, natural disasters, and errors affecting the entity's ability to meet its objectives; anomalies are analyzed to determine whether they represent security events.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.2.1",
+    "subject": "SIEM application",
+    "predicate": "utilized to monitor and log certain security events for the in-scope systems",
+    "page": 1,
+    "excerpt": "CC7.2.1 A SIEM application is utilized to monitor and log certain security events for the in-scope systems when predefined conditions are met. Inspected the SIEM application configurations, system-generated listing of monitored devices, and example security event logs generated during the period to determine that a SIEM application was utilized to monitor and log certain security events for the in",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.2.2",
+    "subject": "An IDS is utilized to monitor and analyze network",
+    "predicate": "to determine that an IDS was utilized to monitor and analyze network traffic for",
+    "page": 1,
+    "excerpt": "Inspected the IDS dashboard, threat detection configurations, and example threat event logs generated during the period to determine that an IDS was utilized to monitor and analyze network traffic for possible or actual security breach events. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.2.4",
+    "subject": "Internal and external monitoring of physical",
+    "predicate": "is performed through the use of",
+    "page": 1,
+    "excerpt": "Observed the surveillance camera systems and security monitoring procedures throughout the IBX data centers with the assistance of the data center site managers and security personnel to determine that internal and external monitoring of data center activity was performed through the use of security guard personnel and / or surveillance cameras at each IBX data center. No exceptions noted. Inspect",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.2.5",
+    "subject": "IBX facilities",
+    "predicate": "are monitored 24x7",
+    "page": 1,
+    "excerpt": "CC7.2.5 IBX facilities are monitored 24x7 by facilities engineers. Equinix has staff in place either onsite or on call 24x7 who are alerted by the BMS for system exceptions. Inquired of the data center site managers and facilities personnel regarding the environmental security monitoring procedures to determine that the IBX data centers were monitored 24x7 by facility engineers and that Equinixhad",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC7.3",
+    "subject": "The entity",
+    "predicate": "evaluates security events to determine whether they could or have resulted in a",
+    "page": 1,
+    "excerpt": "CC7.3 The entity evaluates security events to determine whether they could or have resulted in a failure of the entity to meet its objectives (security incidents) and, if so, takes actions to prevent or address such failures.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.3.1",
+    "subject": "Incident response procedures",
+    "predicate": "are in place",
+    "page": 1,
+    "excerpt": "Inspected the incident management policies, procedures, and workflows to determine that incident response procedures were in place that outlined the response procedures to security events including lessons learned. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.4.1",
+    "subject": "Incident response procedures",
+    "predicate": "are documented",
+    "page": 1,
+    "excerpt": "CC7.4.1 Documented incident response procedures are in place to guide personnel in the following steps required for the incident response process: \u2022 Roles and responsibilities \u2022 Incident identification, investigation, and triage \u2022 Communication protocols for affected parties \u2022 Remediation (containment, eradication, and recovery) \u2022 Post incident activities (restoration and lessons learned)",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.4.4",
+    "subject": "Data center facility incidents and corrective",
+    "predicate": "reported monthly for management review",
+    "page": 1,
+    "excerpt": "Inspected the data center facility incident reports for a sample of IBX data centers and months during the period to determine that reports addressing data center facility incidents and corrective measures were reported for management review for each IBX data center and month sampled. The test of the control activity disclosed that reports addressing data center facility incidents and corrective",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.5",
+    "subject": "The entity",
+    "predicate": "identifies, develops, and implements activities to recover from identified",
+    "page": 1,
+    "excerpt": "CC7.5 The entity identifies, develops, and implements activities to recover from identified security incidents.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC7.5.1",
+    "subject": "Incident response procedures",
+    "predicate": "are documented",
+    "page": 1,
+    "excerpt": "CC7.5.1 Documented incident response procedures are in place to guide personnel in the following steps required for the incident response process: \u2022 Roles and responsibilities \u2022 Incident identification, investigation, and triage \u2022 Communication protocols for affected parties \u2022 Remediation (containment, eradication, and recovery) \u2022 Post incident activities (restoration and lessons learned)",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC8.1",
+    "subject": "entity",
+    "predicate": "authorizes, designs, develops, acquires, configures, documents, tests, approves,",
+    "page": 1,
+    "excerpt": "The entity authorizes, designs, develops, or acquires, configures, documents, tests, approves, and implements changes to infrastructure, data, software, and procedures to meet its objectives.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC8.1.3",
+    "subject": "ticketing system",
+    "predicate": "utilized to centrally document and track configuration and maintenance",
+    "page": 1,
+    "excerpt": "CC8.1.3 A ticketing system is utilized to centrally document and track configuration and maintenance activities. Inspected the change request tickets for a sample of configuration and maintenance changes implemented during the period to determine that a ticket system was utilized to document and track configuration and maintenance activities for each change sampled. No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC8.1.5",
+    "subject": "change review meeting",
+    "predicate": "held",
+    "page": 1,
+    "excerpt": "A change review meeting is held on a weekly basis to discuss and communicate the ongoing and upcoming projects that affect the system.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC8.1.5",
+    "subject": "change review meeting",
+    "predicate": "discussed",
+    "page": 1,
+    "excerpt": "to discuss and communicate the ongoing and upcoming projects that affected the system for each week sampled.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC8.1.5",
+    "subject": "change review meeting",
+    "predicate": "communicated",
+    "page": 1,
+    "excerpt": "No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC8.1.6",
+    "subject": "Access privileges to promote changes into the",
+    "predicate": "restricted to user accounts accessible by authorized personnel",
+    "page": 1,
+    "excerpt": "Inspected the privileged user account listings for the network domain, the firewall management system and a sample of in-scope production server operating systems and physical access control systems with the assistance of global information security and compliance personnel to determine that access privileges to promote changes into production were restricted to user accounts accessible by authori",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC9.1",
+    "subject": "entity",
+    "predicate": "identifies, selects, and develops risk mitigation activities",
+    "page": 1,
+    "excerpt": "The entity identifies, selects, and develops risk mitigation activities for risks arising from potential business disruptions.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC9.1.2",
+    "subject": "annual risk assessment",
+    "predicate": "performed on an annual basis",
+    "page": 9,
+    "excerpt": "A risk assessment is performed on an annual basis that considers risks arising from potential business disruptions.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC9.1.2",
+    "subject": "risks identified",
+    "predicate": "rated using a risk evaluation process",
+    "page": 9,
+    "excerpt": "Risks that are identified are rated using a risk evaluation process and are formally documented, along with mitigation strategies, for management review.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC9.1.2",
+    "subject": "management review",
+    "predicate": "for management review",
+    "page": 9,
+    "excerpt": "Inspected the most recent annual threat and risk assessments, mitigation tracking documentation, and evidence of management review for a sample of IBX data centers to determine that a risk assessment was performed during the period for each IBX data center sampled that considered risks arising from potential business disruptions and that risks identified were rated using a risk evaluation process",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC9.1.2",
+    "subject": "management review",
+    "predicate": "for management review",
+    "page": 9,
+    "excerpt": "No exceptions noted.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC9.2",
+    "subject": "vendors and business partners",
+    "predicate": "assesses and manages risks",
+    "page": 1,
+    "excerpt": "CC9.2 The entity assesses and manages risks associated with vendors and business partners.",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC9.2.1",
+    "subject": "annual risk assessment",
+    "predicate": "performed on an annual basis",
+    "page": 9,
+    "excerpt": "A risk assessment is performed on an annual basis that considers risks associated with third-party providers accessing the IBX data centers. Risks that are identified are rated using a risk evaluation process and are formally documented, along with mitigation strategies, for management review. Inspected the most recent annual threat and risk assessments, mitigation tracking documentation, and evid",
+    "validation_score": 1.0
+  },
+  {
+    "control_id": "CC9.2.2",
+    "subject": "signed agreements",
+    "predicate": "addressing information security and confidentiality obligations",
+    "page": 9,
+    "excerpt": "CC9.2.2 Signed agreements addressing information security and confidentiality obligations are required to be in place with vendors prior to sharing restricted information with the provider or providing access to IBX data centers. Inquired of the senior specialist of global operations compliance regarding the IBX data center vendor assessment procedures to determine that signed agreements...",
+    "validation_score": 0.99
+  },
+  {
+    "control_id": "CC7.4.4",
+    "subject": "Data center facility incidents and corrective",
+    "predicate": "reported monthly for management review",
+    "page": 1,
+    "excerpt": "Inspected the data center facility incident reports for a sample of IBX data centers and months during the period to determine that reports addressing data center facility incidents and corrective measures were reported for management review for each IBX data center and month sampled. The test of the control activity disclosed that reports addressing data center facility incidents and corrective",
+    "validation_score": 1.0
+  }
+]

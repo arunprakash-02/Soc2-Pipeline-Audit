@@ -1,0 +1,29 @@
+{
+  "run_id": "20261124T120926Z",
+  "started_at": "2026-11-24T12:09:26.112867+00:00",
+  "finished_at": "2026-11-24T12:30:46.172905+00:00",
+  "duration_seconds": 1280.06,
+  "model": "llama3.2:3b",
+  "options": {
+    "temperature": 0,
+    "seed": 42,
+    "num_ctx": 4096
+  },
+  "framework": "SOC 2",
+  "source_version": "2017 Trust Services Criteria with Revised Points of Focus (2022); includes March 2020 updates",
+  "assessment_date": "2026-11-16",
+  "input_pdf": {
+    "file_name": "soc2.pdf",
+    "sha256": "dc83cc4bad2694d39a74062734755210801af58089a974938eb2f9e7a091b3d0",
+    "size_bytes": 4047721,
+    "page_count": 52
+  },
+  "output_claims_file": "C:\\Users\\Arun-Developer\\Downloads\\Vendor Risk management project\\data\\mapped_claims.json",
+  "failure_log_file": "C:\\Users\\Arun-Developer\\Downloads\\Vendor Risk management project\\data\\pipeline_failures.jsonl",
+  "counts": {
+    "extracted_blocks": 168,
+    "mapped_claims": 121,
+    "unmapped_claims": 47,
+    "needs_review_claims": 168
+  }
+}
